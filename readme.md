@@ -1,5 +1,7 @@
 # Downloading NCES IPEDS Data
 
+DOI for dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15028111.svg)](https://doi.org/10.5281/zenodo.15028111)
+
 Tools to download and double-check the [IPEDS](https://nces.ed.gov/ipeds) survey data from the U.S. [NCES](https://nces.ed.gov/).
 
 Note that [another copy of this data](https://www.datalumos.org/datalumos/project/218981/version/V1/view) is already preserved in ICPSR's DataLumos repository. If you view the [IPEDS scraping](https://www.datalumos.org/datalumos/project/218981/version/V1/view?path=/datalumos/218981/fcr:versions/V1/Supplementary-Information/IPEDS-Scraping.html&type=file) HTML file it contains instructions on downloading all the IPEDS data using R.
